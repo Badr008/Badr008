@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Badr008
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Badr 
+- I'm a Python Back-end Dev (FastAPI) who also works with { DevOps: (Docker, K8S) , CI/CD: (GitLab), DB: (Mysql, Postgresql) }
+
 
 <!---
 Badr008/Badr008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
